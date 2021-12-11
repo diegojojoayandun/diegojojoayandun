@@ -2,7 +2,7 @@
 const Diego_Jojoa = {
     aka: "XcryptOR",
     code: ["JavaScript", "C - C++, "DotNET", "Python"],
-    askMeAbout: ["Lawyer in formation"],
+    askMeAbout: ["Lawyer", "Software Developer in formation"],
     technologies: {
             Control_Versions: ["GIT"]
         },
