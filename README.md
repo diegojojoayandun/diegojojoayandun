@@ -2,7 +2,7 @@
 
 ```javascript
 const Diego_Jojoa = {
-    pronouns: "He" | "Him",
+    aka: "XcryptOR",
     code: ["JavaScript", "C - C++, "DotNET", "Python"],
     askMeAbout: ["Lawyer in formation"],
     technologies: {
