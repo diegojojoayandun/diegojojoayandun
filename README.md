@@ -1,5 +1,3 @@
-### Hi there 👋
-
 ```javascript
 const Diego_Jojoa = {
     aka: "XcryptOR",
