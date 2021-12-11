@@ -11,6 +11,6 @@ const Diego_Jojoa = {
         },
         databases: ["MongoDB", "MySQL"],
     },
-    tools: ["Hyper", "emacs", "VSCode"]
+    tools: ["Hyper", "Emacs", "VSCode"]
 };
 ```
