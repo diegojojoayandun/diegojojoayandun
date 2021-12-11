@@ -1,22 +1,18 @@
 ### Hi there 👋
 
 ```javascript
-const tu = {
+const Diego_Jojoa = {
     pronouns: "He" | "Him",
-    code: ["JavaScript", "TypeScript", "Java", "Python", "Ruby"],
-    askMeAbout: ["photography", "dnd"],
+    code: ["JavaScript", "C - C++, "DotNET", "Python"],
+    askMeAbout: ["Lawyer in formation"],
     technologies: {
-        frontEnd: {
-            js: ["React"]
+            Control_Versions: ["GIT"]
         },
         backEnd: {
             js: ["NodeJS", "Express"],
-	    ruby: ["Rails"],
-	    java: ["Spring Boot"]
         },
-        devOps: ["AWS", "Docker", "Kubernetes"],
-        databases: ["MongoDB", "MySQL", "PostgreSQL"],
+        databases: ["MongoDB", "MySQL"],
     },
-    tools: ["Tmux", "Vim", "GraphQL"]
+    tools: ["Hyper", "Vim", "VSCode"]
 };
 ```
