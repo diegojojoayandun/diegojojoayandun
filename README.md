@@ -1,7 +1,6 @@
 ### Hi there 👋
 
-<!--
-
+```javascript
 const tu = {
     pronouns: "He" | "Him",
     code: ["JavaScript", "TypeScript", "Java", "Python", "Ruby"],
@@ -20,4 +19,4 @@ const tu = {
     },
     tools: ["Tmux", "Vim", "GraphQL"]
 };
--->
+```
