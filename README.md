@@ -9,11 +9,11 @@
 </a> 
 
 
-```javascript
-const Diego_Jojoa = {
+```python
+global Diego_Jojoa = {
     aka: "XcryptOR",
-    code: ["JavaScript", "C - C++, "DotNET", "Python"],
-    askMeAbout: ["Lawyer", "Software Developer in formation"],
+    languages: ["JS", "C - C++, "DotNET", "Python", "Powershell", "Bash"],
+    AboutMe: ["Lawyer", "Software Developer in formation"],
     technologies: {
             Control_Versions: ["GIT"]
         },
@@ -23,7 +23,7 @@ const Diego_Jojoa = {
         databases: ["MongoDB", "MySQL"],
     },
     tools: ["Hyper", "Emacs", "VSCode"]
-};
+}
 ```
 
 ### Languages and Tools
