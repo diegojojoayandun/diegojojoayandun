@@ -42,5 +42,6 @@ global Diego_Jojoa = {
 <br />
 <br />
 ### Statics
+<br />
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=diegojojoayandun)](https://github.com/diegojojoayandun/github-readme-stats)
 <br />
