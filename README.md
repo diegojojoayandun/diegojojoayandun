@@ -25,7 +25,7 @@ global Diego_Jojoa = {
     tools: ["Hyper", "Emacs", "VSCode"]
 }
 ```
-
+---
 ### Languages and Tools
 <img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
 <img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
@@ -42,9 +42,10 @@ global Diego_Jojoa = {
 <img align="left" alt="Flask" width="26px" src="https://github.com/diegojojoayandun/diegojojoayandun/blob/e86abbafb122781711245bbc996813eb35262320/images/flask.png"/>
 <br />
 
-###
+---
 [![Diego's github stats](https://github-readme-stats.vercel.app/api?username=diegojojoayandun)](https://github.com/diegojojoayandun/github-readme-stats)
 
+---
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=diegojojoayandun&layout=compact)](https://github.com/diegojojoayandun/github-readme-stats)
 
 <br />
