@@ -43,6 +43,7 @@ global Diego_Jojoa = {
 <br />
 
 
+## Statics
 
 [![Diego's github stats](https://github-readme-stats.vercel.app/api?username=diegojojoayandun)](https://github.com/diegojojoayandun/github-readme-stats)
 
