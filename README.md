@@ -19,7 +19,7 @@ global Diego_Jojoa = {
             Control_Versions: ["GIT"]
         },
         backEnd: {
-            js: ["NodeJS", "Express"],
+            js: ["NodeJS", "Express", "Flask"],
         },
         databases: ["MongoDB", "MySQL"],
     },
