@@ -26,6 +26,9 @@ global Diego_Jojoa = {
     tools: ["Hyper", "Emacs", "VSCode"]
 }
 ```
+
+I'm a full stack software developer, I'ḿ a enthusiastic and lover of tech and programming, with good Kkowledge in DevOps, I'm continously searching to improve my abilities and skills. Love what I do, Always open to work. Between 2007 - 2009 was member, moderator and collaborator for many programming websites like www.elhacker.net, www.gedzac.com, www.hackhound.org all of them about malware and security programming.
+
 ---
 ### Languages and Tools
 <img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
