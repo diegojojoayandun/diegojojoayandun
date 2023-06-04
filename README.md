@@ -13,21 +13,24 @@
 ```python
 global Diego_Jojoa = {
     aka: "XcryptOR",
-    languages: ["JS", "C - C++, "DotNET", "Python", "Powershell", "Bash"],
-    AboutMe: ["Lawyer", "Software Developer in formation"],
+    languages: ["JS", "C - C++, "C#", "Python", "Powershell", "Bash", "JAVA"],
+    AboutMe: ["Lawyer", "Software Developer, BackEnd Developer"],
     technologies: {
             Control_Versions: ["GIT"]
         },
         backEnd: {
-            js: ["NodeJS", "Express", "Flask"],
+            js: ["NodeJS", "Express", "Flask", "Django", "SpringBoot", "ASP .NET Core"],
         },
-        databases: ["MongoDB", "MySQL"],
+        frontend: {
+                ["React", "React Native", "Sass", "vitejs"]
+        },
+        databases: ["MongoDB", "MySQL", "Postgres", "MSSql"],
     },
-    tools: ["Hyper", "Emacs", "VSCode"]
+    tools: ["Hyper", "Emacs", "VSCode", "Vim", "ChatGPT Prompting"]
 }
 ```
 
-I'm a full stack software developer, I'ḿ a enthusiastic and lover of tech and programming, with good Kkowledge in DevOps, I'm continously searching to improve my abilities and skills. Love what I do, Always open to work. Between 2007 - 2009 was member, moderator and collaborator for many programming websites like www.elhacker.net, www.gedzac.com, www.hackhound.org all of them about malware and security programming.
+Full stack software developer, I'ḿ a enthusiastic lover of tech and programming, with good Kkowledge in DevOps, I'm continously searching to improve my abilities and skills. Love what I do, Always open to work. Between 2007 - 2009 was member, moderator and collaborator for many programming websites like www.elhacker.net, www.gedzac.com, www.hackhound.org all of them about malware and security programming.
 
 ---
 ### Languages and Tools
