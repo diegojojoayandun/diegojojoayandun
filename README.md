@@ -54,7 +54,6 @@ Full stack software developer, I'ḿ a enthusiastic lover of tech and programmin
 
 ---
 ### Statics
-[![Diego's github stats](https://github-readme-stats.vercel.app/api?username=diegojojoayandun)](https://github.com/diegojojoayandun/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=diegojojoayandun&layout=compact)](https://github.com/diegojojoayandun/github-readme-stats)
 
