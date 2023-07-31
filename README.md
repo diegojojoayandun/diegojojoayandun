@@ -30,7 +30,7 @@ global Diego_Jojoa = {
 }
 ```
 
-Full stack software developer, I'ḿ a enthusiastic lover of tech and programming, with good Kkowledge in DevOps, I'm continously searching to improve my abilities and skills. Love what I do, Always open to work. Between 2007 - 2009 was member, moderator and collaborator for many programming websites like www.elhacker.net, www.gedzac.com, www.hackhound.org all of them about malware and security programming.
+Full stack software developer, I'ḿ enthusiastic, in love with tech and programming, and have good knowledge of DevOps, I'm continuously searching to improve my abilities and skills. I love what I do, Always open to work. 
 
 ---
 ### Languages and Tools
