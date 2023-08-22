@@ -13,7 +13,7 @@
 ```python
 global Diego_Jojoa = {
     aka: "XcryptOR",
-    languages: ["JS", "C", "C#", "Python", "Rust", "Bash", "JAVA", "VB", "Php"],
+    languages: ["JS", "C", "C Sharp", "Python", "Rust", "Bash", "JAVA", "VB", "Php"],
     AboutMe: ["Software Developer, BackEnd Developer"],
     technologies: {
             Control_Versions: ["GIT"]
