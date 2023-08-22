@@ -53,7 +53,7 @@ Thanks for stopping by, and happy coding! 💻🌈
 ---
 ### Languages and Tools
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,CSS,aws)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,CSS,py)](https://skillicons.dev)
 
 <br />
 <br />
