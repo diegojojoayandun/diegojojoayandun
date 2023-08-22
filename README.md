@@ -30,7 +30,25 @@ global Diego_Jojoa = {
 }
 ```
 
-Full stack software developer, I'ḿ enthusiastic, in love with tech and programming, and have good knowledge of DevOps, I'm continuously searching to improve my abilities and skills. I love what I do, Always open to work. 
+👋 Welcome to my GitHub profile! I'm  a passionate backend developer with a good command of C# and Python. 🚀
+
+🛠️ Tech Stack:
+- Programming Languages: C#, Python
+- Frameworks: ASP.NET, Flask, Django; EntityFramework
+- Databases: SQL Server, PostgreSQL, MongoDB, MySql
+- API Design: RESTful
+- DevOps: Docker
+
+🌟 What I Do:
+I work in designing and implementing APIs, data models, and backend services that form the core of web applications. Optimizing API endpoints for speed and efficiency, or ensuring data security through thorough authentication and authorization mechanisms, I'm committed to delivering excellence in every aspect of backend development.
+
+📈 Learning Together:
+I'm a firm believer in collaborative learning. I'm seeking opportunities to work alongside experienced developers who can provide guidance and mentorship. I'm excited to contribute to open-source projects, learn from the community, and share my progress as I tackle exciting projects on my GitHub.
+
+🌐 Let's Connect:
+I'm enthusiastic about connecting with fellow developers, mentors, and tech enthusiasts. If you're interested in discussing backend development, sharing insights about C# and Python, or just geeking out about technology, I'm all ears! Reach out to me here on GitHub or connect with me on [LinkedIn/other platforms].
+
+Thanks for stopping by, and happy coding! 💻🌈
 
 ---
 ### Languages and Tools
