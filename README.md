@@ -53,7 +53,7 @@ Thanks for stopping by, and happy coding! 💻🌈
 ---
 ### Languages and Tools
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,py,aws,azure,bash,bootstrap,c,cs,docker,dotnet,django,fastapi,flask,git,github,idea,java,maven,mongodb,mysql,nodejs,postgres,powershell,postman,react,rust,spring,sass,ts,visualstudio,vscode,vite)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,py,bash,bootstrap,c,cs,docker,dotnet,django,fastapi,flask,git,java,mongodb,mysql,nodejs,postgres,powershell,react,rust,ts,visualstudio,vscode)](https://skillicons.dev)
 
 <br />
 <br />
