@@ -59,7 +59,4 @@ Thanks for stopping by, and happy coding! 💻🌈
 <br />
 
 ---
-### Statics
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=diegojojoayandun&layout=compact)](https://github.com/diegojojoayandun/github-readme-stats)
 
