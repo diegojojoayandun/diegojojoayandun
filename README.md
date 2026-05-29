@@ -13,20 +13,20 @@
 ```python
 global Diego_Jojoa = {
     aka: "XcryptOR",
-    languages: ["JS", "C", "C Sharp", "Python", "Rust", "Bash", "JAVA", "VB", "Php"],
+    languages: ["JS", "C", "C Sharp", "Python", "Rust", "Bash", "JAVA"],
     AboutMe: ["Software Developer, BackEnd Developer"],
     technologies: {
             Control_Versions: ["GIT"]
         },
         backEnd: {
-            js: ["NodeJS", "Express", "Flask", "Django", "SpringBoot", "ASP .NET Core"],
+            js: ["NodeJS", "Express", "Flask", "Django", "SpringBoot", "ASP .NET Core", "Supabase"],
         },
         frontend: {
-                ["React", "React Native", "Sass", "vitejs"]
+                ["React", "React Native", "Sass", "vitejs", "TailWind"]
         },
         databases: ["MongoDB", "MySQL", "Postgres", "MSSql"],
     },
-    tools: ["Hyper", "Emacs", "VSCode", "Vim", "ChatGPT Prompting"]
+    tools: [ "VSCode", "Vim", "Claude Code"]
 }
 ```
 
