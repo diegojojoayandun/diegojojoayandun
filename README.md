@@ -6,7 +6,7 @@
 <div align="center">
 
 <a href="https://github.com/diegojojoayandun">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=venom&height=220&color=0:0D1117,50:123456,100:1F6FEB&text=DIEGO%20FERNANDO%20JOJOA&fontColor=FFFFFF&fontSize=65&fontAlignY=45&desc=FULL%20STACK%20DEVELOPER%20%7C%20.NET%20%7C%20PYTHON%20%7C%20CYBERSECURITY&descSize=13&descAlignY=65&animation=fadeIn" alt="XcryptOR banner"/>
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=venom&height=220&color=0:0D1117,50:123456,100:1F6FEB&text=DIEGO%20JOJOA&fontColor=FFFFFF&fontSize=65&fontAlignY=45&desc=FULL%20STACK%20DEVELOPER%20%7C%20.NET%20%7C%20PYTHON%20%7C%20CYBERSECURITY&descSize=13&descAlignY=65&animation=fadeIn" alt="XcryptOR banner"/>
 </a>
 
 <a href="https://readme-typing-svg.demolab.com/">
