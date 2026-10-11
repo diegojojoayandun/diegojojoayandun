@@ -1,62 +1,305 @@
-### About Me
-<a href="https://github.com/diegojojoayandun" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-</a>
-<a href="https://twitter.com/Xcryp70R" target="_blank">
-<img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
-</a>
-<a href="https://www.linkedin.com/in/diego-fernando-jojoa-yandun/" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-</a> 
+<!--
+    Diego Fernando Jojoa Yandun
+    GitHub Profile README
+-->
 
+<div align="center">
 
-```python
-global Diego_Jojoa = {
-    aka: "XcryptOR",
-    languages: ["JS", "C", "C Sharp", "Python", "Rust", "Bash", "JAVA"],
-    AboutMe: ["Software Developer, BackEnd Developer"],
-    technologies: {
-            Control_Versions: ["GIT"]
-        },
-        backEnd: {
-            js: ["NodeJS", "Express", "Flask", "Django", "SpringBoot", "ASP .NET Core", "Supabase"],
-        },
-        frontend: {
-                ["React", "React Native", "Sass", "vitejs", "TailWind"]
-        },
-        databases: ["MongoDB", "MySQL", "Postgres", "MSSql"],
+<a href="https://github.com/diegojojoayandun">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=venom&height=220&color=0:0D1117,50:123456,100:1F6FEB&text=XcryptOR&fontColor=FFFFFF&fontSize=65&fontAlignY=45&desc=FULL%20STACK%20DEVELOPER%20%7C%20.NET%20%7C%20PYTHON%20%7C%20CYBERSECURITY&descSize=13&descAlignY=65&animation=fadeIn" alt="XcryptOR banner"/>
+</a>
+
+<a href="https://readme-typing-svg.demolab.com/">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=17&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=750&lines=Full+Stack+Developer;Backend+%7C+APIs+%7C+Database+Design;Python+%7C+C%23+%7C+JavaScript;Exploring+Cybersecurity+and+Secure+Development" alt="Animated developer introduction"/>
+</a>
+
+<br/>
+
+<a href="https://github.com/diegojojoayandun">
+  <img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+</a>
+<a href="https://www.linkedin.com/in/diego-fernando-jojoa-yandun/">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
+<a href="https://x.com/Xcryp70R">
+  <img src="https://img.shields.io/badge/X-Follow-000000?style=for-the-badge&logo=x&logoColor=white" alt="X"/>
+</a>
+
+<br/><br/>
+
+**FULL STACK DEVELOPER · .NET · PYTHON · CYBERSECURITY**
+
+📍 Colombia
+
+</div>
+
+---
+
+## `> whoami`
+
+```js
+const Diego_Jojoa = {
+    alias: "XcryptOR",
+    role: "Full Stack Developer",
+    focus: [
+        "Backend Engineering",
+        "API Development",
+        "Cybersecurity"
+    ],
+
+    languages: {
+        primary: ["C#", "Python", "JavaScript"],
+        additional: ["C", "Java", "Rust", "Bash"]
     },
-    tools: [ "VSCode", "Vim", "Claude Code"]
-}
+
+    backend: [
+        "ASP.NET Core",
+        "Node.js",
+        "Express",
+        "Flask",
+        "Django"
+    ],
+
+    frontend: [
+        "React",
+        "React Native",
+        "Vite",
+        "Sass",
+        "Tailwind CSS"
+    ],
+
+    databases: [
+        "PostgreSQL",
+        "SQL Server",
+        "MySQL",
+        "MongoDB",
+        "Supabase"
+    ],
+
+    tools: [
+        "Git",
+        "Docker",
+        "VS Code",
+        "Vim",
+        "Claude Code"
+    ],
+
+    interests: [
+        "Secure Software Development",
+        "REST API Architecture",
+        "Cybersecurity"
+    ],
+
+    currentlyBuilding: "SiniestrosVial"
+};
 ```
 
-👋 Welcome to my GitHub profile! I'm  a passionate backend developer with a good command of C# and Python. 🚀
+I'm a software developer interested in building web applications, designing backend services, and exploring cybersecurity.
 
-🛠️ Tech Stack:
-- Programming Languages: C#, Python
-- Frameworks: ASP.NET, Flask, Django; EntityFramework
-- Databases: SQL Server, PostgreSQL, MongoDB, MySql
-- API Design: RESTful
-- DevOps: Docker
+My work and learning interests span the full development lifecycle, from frontend interfaces and REST APIs to database design, application security, and deployment workflows.
 
-🌟 What I Do:
-I work in designing and implementing APIs, data models, and backend services that form the core of web applications. Optimizing API endpoints for speed and efficiency, or ensuring data security through thorough authentication and authorization mechanisms, I'm committed to delivering excellence in every aspect of backend development.
+I value clean architecture, practical problem-solving, continuous learning, and software that solves real-world problems.
 
-📈 Learning Together:
-I'm a firm believer in collaborative learning. I'm seeking opportunities to work alongside experienced developers who can provide guidance and mentorship. I'm excited to contribute to open-source projects, learn from the community, and share my progress as I tackle exciting projects on my GitHub.
+> **My philosophy:** Understand the problem. Design the solution. Build with purpose.
 
-🌐 Let's Connect:
-I'm enthusiastic about connecting with fellow developers, mentors, and tech enthusiasts. If you're interested in discussing backend development, sharing insights about C# and Python, or just geeking out about technology, I'm all ears! Reach out to me here on GitHub or connect with me on [LinkedIn/other platforms].
+## 🧭 Navigation
 
-Thanks for stopping by, and happy coding! 💻🌈
+- [⚙️ What I do](#️-what-i-do)
+- [🧰 Technology stack](#-technology-stack)
+- [🚀 Featured project](#-featured-project)
+- [📊 GitHub analytics](#-github-analytics)
+- [🎯 Current interests](#-current-interests)
+- [🤝 Connect with me](#-connect-with-me)
 
 ---
-### Languages and Tools
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,py,bash,bootstrap,c,cs,docker,dotnet,django,fastapi,flask,git,java,mongodb,mysql,nodejs,postgres,powershell,react,rust,ts,visualstudio,vscode)](https://skillicons.dev)
+## ⚙️ What I do
 
-<br />
-<br />
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 💻 Full Stack Development
+
+- Web application development
+- Frontend and backend integration
+- REST API design and implementation
+- Database modeling and persistence
+- Maintainable application architecture
+
+</td>
+<td width="50%" valign="top">
+
+### 🛡️ Cybersecurity
+
+- Secure software development
+- Web application security fundamentals
+- Authentication and authorization
+- Security-oriented technical learning
+- Developer tooling and automation
+
+</td>
+</tr>
+</table>
 
 ---
+
+## 🧰 Technology stack
+
+### 💻 Programming languages
+
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=cs,python,js,c,java,rust,bash&theme=dark" alt="Programming languages"/>
+</div>
+
+### ⚙️ Backend development
+
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=dotnet,nodejs,express,flask,django,spring&theme=dark" alt="Backend technologies"/>
+</div>
+
+**Additional backend technology:** ASP.NET Core, Entity Framework Core and Supabase.
+
+### 🎨 Frontend development
+
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=react,vite,ts,html,css,sass,tailwind&theme=dark" alt="Frontend technologies"/>
+</div>
+
+**Additional technology:** React Native.
+
+### 🗄️ Databases
+
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,sqlite&theme=dark" alt="Database technologies"/>
+</div>
+
+**Additional database:** Microsoft SQL Server.
+
+### 🛠️ Tools and workflow
+
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=git,github,docker,vscode,visualstudio,bash,powershell&theme=dark" alt="Developer tools"/>
+</div>
+
+<details>
+<summary><b>🔎 More about my technical toolkit</b></summary>
+
+My broader technology interests include:
+
+- **Languages:** C#, Python, JavaScript, C, Java, Rust and Bash.
+- **Backend:** ASP.NET Core, Node.js, Express, Flask, Django and Spring Boot.
+- **Frontend:** React, React Native, Vite, TypeScript, Sass and Tailwind CSS.
+- **Databases:** PostgreSQL, Microsoft SQL Server, MySQL and MongoDB.
+- **Tools:** Git, GitHub, Docker, VS Code, Visual Studio, Vim, PowerShell and Claude Code.
+- **Areas of interest:** REST APIs, application architecture, database design and cybersecurity.
+
+The technologies listed reflect my toolkit and areas of interest; they do not imply equal proficiency in every technology.
+
+</details>
+
+---
+
+## 🚀 Featured project
+
+<a href="https://siniestrosvial.com.co/">
+  <img src="https://img.shields.io/badge/SiniestrosVial-Visit%20Platform-1A3C5E?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Visit SiniestrosVial"/>
+</a>
+
+### SiniestrosVial
+
+A web platform focused on vehicle-related procedures and digital assistance.
+
+**Technology stack**
+
+| Technology | Purpose |
+|---|---|
+| React | Frontend interface |
+| Vite | Frontend tooling and build |
+| Node.js | Backend runtime |
+| Supabase | Data and backend services |
+
+**Areas of development**
+
+- Frontend and backend integration.
+- Application and data architecture.
+- Digital workflows for real-world procedures.
+- Practical web application development.
+
+<div align="center">
+
+<a href="https://siniestrosvial.com.co/">
+  <img src="https://img.shields.io/badge/🌐_Live_Platform-Visit_SiniestrosVial-1A3C5E?style=for-the-badge" alt="Live platform"/>
+</a>
+<a href="https://github.com/diegojojoayandun?tab=repositories">
+  <img src="https://img.shields.io/badge/💻_Source_Code-My_Repositories-181717?style=for-the-badge&logo=github" alt="My repositories"/>
+</a>
+
+</div>
+
+---
+
+## 📊 GitHub analytics
+
+<div align="center">
+
+<a href="https://github.com/diegojojoayandun">
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=diegojojoayandun&show_icons=true&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9&rank_icon=github" alt="GitHub statistics"/>
+</a>
+
+<a href="https://github.com/diegojojoayandun">
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=diegojojoayandun&layout=compact&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&langs_count=8" alt="Most used languages"/>
+</a>
+
+<br/><br/>
+
+<a href="https://streak-stats.demolab.com/">
+  <img src="https://streak-stats.demolab.com?user=diegojojoayandun&theme=github-dark-blue&hide_border=true&background=0D1117" alt="GitHub contribution streak"/>
+</a>
+
+<br/><br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=diegojojoayandun&bg_color=0D1117&color=58A6FF&line=1F6FEB&point=FFFFFF&area=true&hide_border=true" width="100%" alt="GitHub contribution activity graph"/>
+
+</div>
+
+<sub>Analytics are generated by third-party services and may be unavailable occasionally. Language statistics describe repository contents, not individual proficiency.</sub>
+
+---
+
+## 🎯 Current interests
+
+- Building maintainable backend services and REST APIs.
+- Improving database design and application architecture.
+- Exploring secure coding and web application security.
+- Developing practical projects with modern web technologies.
+- Learning tools and workflows that improve software quality.
+
+---
+
+## 🤝 Connect with me
+
+Interested in software development, backend engineering, APIs, or cybersecurity? Let's connect and exchange ideas.
+
+<div align="center">
+
+<a href="https://github.com/diegojojoayandun">
+  <img src="https://img.shields.io/badge/GitHub-Follow%20my%20work-181717?style=for-the-badge&logo=github" alt="GitHub profile"/>
+</a>
+<a href="https://www.linkedin.com/in/diego-fernando-jojoa-yandun/">
+  <img src="https://img.shields.io/badge/LinkedIn-Let's%20connect-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn profile"/>
+</a>
+<a href="https://x.com/Xcryp70R">
+  <img src="https://img.shields.io/badge/X-Follow%20XcryptOR-000000?style=for-the-badge&logo=x" alt="X profile"/>
+</a>
+
+<br/><br/>
+
+**Build with purpose. Learn continuously. Ship thoughtfully.**
+
+<img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:1F6FEB,100:58A6FF&section=footer" width="100%" alt="Footer separator"/>
+
+<sub>Diego Jojoa · XcryptOR · Colombia</sub>
+
+</div>
 
